@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\reapi\Desktop\C++ projects\C-Plus-Projects\Lecture E\Source1.cpp(11,30): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\reapi\Desktop\C++ projects\C-Plus-Projects\Lecture E\Source1.cpp(11,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\reapi\Desktop\C++ projects\C-Plus-Projects\Lecture E\Source1.cpp(30): fatal error C1075: '{': no matching token found

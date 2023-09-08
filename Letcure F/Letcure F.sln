@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Letcure F", "Letcure F.vcxproj", "{28DFBE8C-FE6B-4783-877C-83B68B693ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DFBE8C-FE6B-4783-877C-83B68B693ADA}.Debug|x64.ActiveCfg = Debug|x64
+		{28DFBE8C-FE6B-4783-877C-83B68B693ADA}.Debug|x64.Build.0 = Debug|x64
+		{28DFBE8C-FE6B-4783-877C-83B68B693ADA}.Debug|x86.ActiveCfg = Debug|Win32
+		{28DFBE8C-FE6B-4783-877C-83B68B693ADA}.Debug|x86.Build.0 = Debug|Win32
+		{28DFBE8C-FE6B-4783-877C-83B68B693ADA}.Release|x64.ActiveCfg = Release|x64
+		{28DFBE8C-FE6B-4783-877C-83B68B693ADA}.Release|x64.Build.0 = Release|x64
+		{28DFBE8C-FE6B-4783-877C-83B68B693ADA}.Release|x86.ActiveCfg = Release|Win32
+		{28DFBE8C-FE6B-4783-877C-83B68B693ADA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AA4E93C-76BF-4592-ADCE-AA3E55F510A7}
+	EndGlobalSection
+EndGlobal
